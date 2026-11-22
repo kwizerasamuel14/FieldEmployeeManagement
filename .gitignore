@@ -1,0 +1,11 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+# Local database files
+*.db
+*.db-shm
+*.db-wal
